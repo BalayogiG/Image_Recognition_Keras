@@ -12,3 +12,7 @@ The Image of the Model while training
 <br>
 <img src="/First Image Classifier.jpg">
 <br>
+The Image of the Prediction is,
+<img src="/PredictionResult.jpg">
+<br>
+In the Above Image the Blue Rectangle show the Input Image. And the Red rectangle show the prediction.
