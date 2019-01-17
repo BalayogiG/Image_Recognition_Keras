@@ -9,10 +9,10 @@ Use Keras if you need a deep learning library that:<br>
 In this project I have used the Python library Keras to recognize the Images and the Neural Network is trained with the CIFAR10 dataset.
 <br>
 The Image of the Model while training 
-<br>
+<br><br>
 <img src="/First Image Classifier.jpg">
-<br>
-The Image of the Prediction is,
+<br><br>
+The Image of the Prediction is,<br>
 <img src="/PredictionResult.jpg">
 <br>
 In the Above Image the Blue Rectangle show the Input Image. And the Red rectangle show the prediction.
