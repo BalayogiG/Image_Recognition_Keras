@@ -10,4 +10,5 @@ In this project I have used the Python library Keras to recognize the Images and
 <br>
 The Image of the Model while training 
 <br>
-<img src="First Image Classifier.jpg">
+<img src="/First Image Classifier.jpg">
+<br>
